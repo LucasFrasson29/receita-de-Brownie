@@ -320,6 +320,7 @@ body{
    .ingredientes ul{
     font-family: "Outifit", serif;
     text-align: start;
+    margin-left: -45px;
     }
     .ingredientes ul li{
     color: #5f574e;
@@ -362,6 +363,7 @@ body{
    .Modo ol{
     font-family: "Outifit", serif;
     text-align: start;
+    margin-left: -24px;
     }
     .Modo ol li{
 
