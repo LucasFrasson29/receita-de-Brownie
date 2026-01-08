@@ -108,7 +108,7 @@ body{
 .box img{
     border-radius: 20px;
     display: block;
-    width: 90%;
+    width: 690px;
     height: 300px;
     margin: auto;
     margin-top: 40px;
@@ -123,7 +123,7 @@ body{
         border: 1px solid var(--bg-page);
         border-radius: 0;   
         display: block;
-        width: 100%;
+        width: 416px;
         height: 188px;
         margin: 0;
         margin-top: 0;
